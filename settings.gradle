@@ -1,0 +1,3 @@
+include ':zyx'
+include ':app'
+rootProject.name = "TestJar"
